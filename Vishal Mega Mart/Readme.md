@@ -1,4 +1,4 @@
-Vishal Mega Mart Sales Dashboard – Power BI Project
+#Vishal Mega Mart Sales Dashboard – Power BI Project
 📊 Project Overview
 This Power BI project aims to analyze and visualize sales data from Vishal Mega Mart, a leading retail chain in India. The goal is to uncover insights on revenue trends, store performance, product sales, and customer behavior to support data-driven decision-making.
 
